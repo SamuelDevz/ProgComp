@@ -1,0 +1,125 @@
+1)
+
+• Linguagens não-estruturadas
+
+- Não há um mecanismo para agrupar instruções
+- Conjunto muito extenso de instruções
+- Muito difícil acompanhar a execução
+- Caracterizadas pelo uso da instrução GOTO
+
+Exemplo: BASIC, COBOL
+
+• Linguagens estruturadas
+
+- Foi introduzido o conceito de sub-rotina
+- As instruções podem ser agrupadas 
+- Uma sub-rotinas pode chamar outra
+- Muito mais fácil acompanhar a execução
+- Possibilita o reuso de código
+
+Exemplo: Pascal, C
+
+• Linguagens orientadas a objeto
+
+- A mais usada nos dias de hoje 
+- Atrela as sub-rotinas a um conjunto de dados 
+- Expande ainda mais as opções de reuso de código
+- Trata os problemas de forma mais intuitiva
+- Facilita o tratamento de erros
+
+Exemplo: C++, C#, Java, Python
+
+2) As linguagens de programação mais populares atualmente são:
+
+Python
+Javascript
+Typescript
+Java
+C#
+C++
+
+Python é uma linguagem de programação de alto nível e para propósitos diversos. 
+Ela pode ser utilizada para múltiplas tarefas, desde a análise e visualização 
+de dados até o desenvolvimento, prototipação e automação web.
+
+JavaScript, juntamente com HTML e CSS, é a melhor linguagem de programação 
+para aprender desenvolvimento web front-end. 97,8% de todos os sites no mundo 
+utilizam JavaScript para seu desenvolvimento client-side (a interface que é 
+visível para os visitantes).
+
+TypeScript é uma linguagem de programação desenvolvida pela Microsoft, que 
+adiciona tipagem estática e recursos de orientação a objetos à sintaxe do 
+JavaScript. Como um superconjunto do JavaScript, TypeScript é totalmente 
+compatível com o código JavaScript existente, permitindo que desenvolvedores 
+escrevam código mais seguro e fácil de manter.
+
+Java é uma linguagem de programação exclusiva que pertence à Oracle. Trata-se 
+de uma linguagem de programação de alto nível — ou seja, que mais se aproxima 
+da linguagem humana — e para propósitos diversos, permitindo que os 
+desenvolvedores criem todo e qualquer tipo de aplicação com facilidade.
+
+C# é uma linguagem de programação desenvolvida pela Microsoft como parte de 
+sua plataforma .NET. Foi projetada para ser uma linguagem simples, moderna 
+e eficiente para desenvolvimento de aplicações.
+
+A linguagem de programação C++ é uma versão melhorada da C, e uma das mais 
+populares linguagens na área de ciências da computação. Além disso, sua 
+versatilidade faz com que a C++ seja uma das linguagens de programação 
+mais indicadas para se aprender. Sua natureza rápida e potente permite 
+que desenvolvedores criem aplicações com excelente desempenho, como 
+videogames, softwares gráficos e navegadores web.
+
+3)
+
+Em uma linguagem compilada, a máquina de destino traduz o programa diretamente. 
+Em uma linguagem interpretada, o código fonte não é traduzido diretamente 
+pela máquina de destino.
+
+Vantagens da compilação:
+
+- o cliente final não tem acesso ao código-fonte do projeto, visto que recebe 
+apenas o código binário para ser executado. 
+
+- Performance: Como compilamos o código inteiro, não precisamos ficar repetindo 
+esse processo desnecessariamente. Além disso, já teremos à mão tudo aquilo que 
+é necessário para a execução, o que aumenta muito a velocidade deste processo.
+
+Alguns exemplos de linguagens de programação que são compiladas são o C++ e Objective-C.
+
+Vantagens da interpretação:
+
+- Facilidade e rapidez iniciar a execução do código já escrito.
+- Depuração nessas linguagens ocorre em tempo de execução.
+
+Alguns exemplos de linguagens de programação que são interpretadas são o JavaScript, 
+Perl, Python, BASIC, etc.
+
+4) Os editores de código mais usados atualmente incluem:
+
+- Visual Studio Code (VS Code): É um dos mais populares, conhecido por sua flexibilidade 
+e vasto ecossistema de extensões, suportando múltiplas linguagens de programação
+
+- Sublime Text: Reconhecido por sua velocidade e interface minimalista, é uma escolha 
+popular entre desenvolvedores que buscam eficiência
+
+- IntelliJ IDEA: Famoso por suas funcionalidades avançadas em Java, oferece análise de 
+código inteligente e suporte a várias linguagens
+
+- Atom: Desenvolvido pelo GitHub, é altamente personalizável e versátil, ideal para 
+quem valoriza a estética e a colaboração
+
+- Notepad++: Uma opção clássica e leve, ideal para edição rápida de arquivos de texto e código
+
+5)
+
+Um editor de código é como um editor de texto especializado, com recursos que auxiliam
+a escrita de códigos de linguagem de programação.
+
+Um ambiente de desenvolvimento integrado (ou IDE) é um programa que possui um
+editor de código integrado com várias ferramentas de apoio ao desenvolvimento de software,
+como um gerenciador de arquivos especializado, um compilador, um depurador, geradores
+de código etc. É nessa categoria que o Visual Studio está inserido.
+
+6) CodeBlocks, DevC++, Visual Studio, Clion, Eclipse, Xcode, etc.
+
+7) Clang, GNU g++, Microsoft Visual C++, Embracadero C++ builder, Intel C++, etc.
